@@ -36,9 +36,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=akanshi2007-droid&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanshi2007-droid&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akanshi2007-droid&theme=tokyonight)
 
 </div>
 
@@ -59,7 +59,7 @@
 <div align="center">
 
 <img 
-  src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"
+  src="https://github.com/akanshi2007-droid/akanshi2007-droid/blob/output/github-contribution-grid-snake-dark.svg"
   style="filter: drop-shadow(0 0 8px #00f5ff) drop-shadow(0 0 20px #00f5ff);"
 />
 
@@ -71,9 +71,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakanksha-singh007/?skipRedirect=true)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/akanshi2007-droid)
 
 </div>
 
