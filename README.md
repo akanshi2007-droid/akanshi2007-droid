@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌊 ANIMATED HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20I'm%20Erica%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20I'm%20Aakanksha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### 🚀 Frontend Developer | 💻 Web Enthusiast | 🎨 UI Explorer  
 
@@ -12,7 +12,7 @@
 ## 💫 About Me
 - 🔭 Working on frontend projects  
 - 🌱 Learning React & backend development  
-- 🎨 Love UI/UX design  
+- 🎨 Passionate about UI/UX design  
 - ⚡ Fun fact: I debug with coffee ☕  
 
 ---
@@ -54,13 +54,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (GLOW MODE)
 
 <div align="center">
 
-![snake light](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-![snake dark](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+<img 
+  src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"
+  style="filter: drop-shadow(0 0 8px #00f5ff) drop-shadow(0 0 20px #00f5ff);"
+/>
 
 </div>
 
