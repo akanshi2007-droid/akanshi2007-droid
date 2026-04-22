@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:0f2027&height=220&section=header&text=Hi%20I'm%20Aakanksha%20✨&fontSize=40&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
 
 <!-- ✨ Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+Explorer;React+Learner;Always+Building+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=UI+Explorer;React+Learner;Always+Building+✨"/>
 
-### 🚀 Frontend Developer | 💻 Web Enthusiast | 🎨 UI Explorer  
+### 💻 Web Enthusiast | 🎨 UI Explorer  
 
 </div>
 
