@@ -90,6 +90,4 @@
 
 <div align="center">
 
-🖤 Built with late nights, coffee ☕, and curiosity ✨  
-
 </div>
