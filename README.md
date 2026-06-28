@@ -28,16 +28,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 SocialFlip | Social media management dashboard | React, CSS |
-| 🤖 Corporate AI Strategy Advisor | AI-powered business strategy platform | React, TypeScript |
-| 💼 More Coming Soon... | Always building something new | 🚀 |
-
----
-
 # 🖤 Tech Stack
 
 <div align="center">
