@@ -15,8 +15,7 @@
 ## 🌌 About Me
 - 🔭 Working on frontend projects  
 - 🌱 Learning React & backend development  
-- 🎨 Passionate about UI/UX design  
-- ⚡ Fun fact: I debug with coffee ☕  
+- 🎨 Passionate about UI/UX design
 
 ---
 
